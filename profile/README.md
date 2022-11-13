@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
+## Hi there We are Psi.co 👋
 
 #🙋 A short introduction : 
 We are a team of three engineering professionals working in the Avionics Industry in Pakistan; We specialize in everything embedded. This might sound like a cliché, but we truly live and breathe embedded systems.
@@ -29,4 +25,3 @@ Different development boards that we have worked on is:
 - Raspberry Pi
 
 Customer satisfaction is our number one priority; We believe in the notion, "A win for you is a win for us". Feel free to contact us regarding any project. We look forward to work with you.
--->
