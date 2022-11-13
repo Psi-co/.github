@@ -1,7 +1,8 @@
-## Hi there We are Psi.co 👋
+## Hi there We are Psi.co 
 
-##🙋 A short introduction 
-We are a team of three engineering professionals working in the Avionics Industry in Pakistan; We specialize in everything embedded. This might sound like a cliché, but we truly live and breathe embedded systems.
+## A short introduction 
+
+#We are a team of three engineering professionals working in the Avionics Industry in Pakistan; We specialize in everything embedded. This might sound like a cliché, but we truly live and breathe embedded systems.
 ith a cumulative experience of over 7 years working in the research and development in the Avionics & Embedded system Industry.
 
 #What we offer:
