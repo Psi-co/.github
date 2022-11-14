@@ -6,13 +6,14 @@ We are a team of three engineering professionals working in the Avionics Industr
 ith a cumulative experience of over 7 years working in the research and development in the Avionics & Embedded system Industry.
 
 #What we offer:
-- C/C++Development
+- C/C++Development / Modern C++
+- Computer Graphics / OpenGL
 - Digital Signal Processing
-- Parallel Computing using Cuda
+- Parallel Computing using CUDA/ OpenCL
 - Python Development
 - Matlab
 - Electronic Circuit Design and Implementation
-- Robotics and Controls
+- Robotics and Controls /ROS based solutions
 - Linux Device Driver & Kernel Development
 - Program Development on Arm Based Micro-Processors
 - Yocto, Debian and Peta-Linux Development
@@ -25,4 +26,4 @@ Different development boards that we have worked on is:
 - The Arduino Series
 - Raspberry Pi
 
-Customer satisfaction is our number one priority; We believe in the notion, "A win for you is a win for us". Feel free to contact us regarding any project. We look forward to work with you.
+Customer satisfaction is our number one priority; We believe in the notion, "A win for you is a win for us". Feel free to contact us regarding any project. We look forward to working with you.
